@@ -60,8 +60,8 @@ To customize the landing page, you can modify the following files:
 
 ---
 
-Made with ❤️ by good-gis
+✨ Made with ❤️ by [good-gis](https://github.com/good-gis) ✨
 
 ---
 
-Happy coding! 🎉
+Happy coding! 💻
